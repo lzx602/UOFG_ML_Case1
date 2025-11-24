@@ -1,0 +1,2 @@
+*.npz filter=lfs diff=lfs merge=lfs -text
+task1_processed_data.npz filter=lfs diff=lfs merge=lfs -text
